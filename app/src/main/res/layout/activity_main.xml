@@ -88,7 +88,7 @@
                 android:layout_marginTop="5dp"
                 android:layout_marginLeft="5dp"
                 android:layout_marginRight="5dp"
-                android:background="#9C7BB2"
+                android:background="#E28150"
                 android:text="Log In" />
 
             <Button
@@ -99,7 +99,7 @@
                 android:layout_marginLeft="5dp"
                 android:layout_marginRight="5dp"
                 android:layout_marginBottom="5dp"
-                android:background="#9C7BB2"
+                android:background="#E28150"
                 android:text="New? \nSign Up!" />
         </LinearLayout>
 
